@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./odesdemdelamotte02lamo_0204.png"; bbox 0 0 1752 3067; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 253 975 1572 1425">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 253 975 1572 1425">
+     <span class='ocr_line' id='line_1_1' title="bbox 253 975 1572 1185; baseline -0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 253 975 1572 1185; x_wconf 68' lang='lat' dir='ltr'>TERPSICORE.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 502 1295 1290 1425; baseline 0.005 -31"><span class='ocrx_word' id='word_1_2' title='bbox 502 1306 581 1425; x_wconf 86' lang='lat' dir='ltr'><strong><em>O</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 650 1295 913 1396; x_wconf 81' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1085 1300 1290 1398; x_wconf 73' lang='lat' dir='ltr'>JV.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 273 2285 1198 2564">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 273 2285 1198 2564">
+     <span class='ocr_line' id='line_1_3' title="bbox 273 2285 1111 2367; baseline -0.007 -21"><span class='ocrx_word' id='word_1_5' title='bbox 273 2292 348 2346; x_wconf 85' lang='lat' dir='ltr'>Le</span> <span class='ocrx_word' id='word_1_6' title='bbox 386 2286 562 2367; x_wconf 76' lang='lat' dir='ltr'>jaloux</span> <span class='ocrx_word' id='word_1_7' title='bbox 578 2286 752 2344; x_wconf 81' lang='lat' dir='ltr'>enfant</span> <span class='ocrx_word' id='word_1_8' title='bbox 774 2285 838 2343; x_wconf 85' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_9' title='bbox 863 2287 1081 2366; x_wconf 83' lang='lat' dir='ltr'>Cypris,</span> <span class='ocrx_word' id='word_1_10' title='bbox 1106 2297 1111 2299; x_wconf 67' lang='grc'>“</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 276 2394 1198 2474; baseline -0.002 -22"><span class='ocrx_word' id='word_1_11' title='bbox 276 2399 340 2452; x_wconf 86' lang='lat' dir='ltr'>Et</span> <span class='ocrx_word' id='word_1_12' title='bbox 367 2419 454 2453; x_wconf 87' lang='lat' dir='ltr'>ma</span> <span class='ocrx_word' id='word_1_13' title='bbox 484 2395 617 2452; x_wconf 83' lang='lat' dir='ltr'>seule</span> <span class='ocrx_word' id='word_1_14' title='bbox 652 2394 823 2452; x_wconf 82' lang='lat' dir='ltr'>affaire</span> <span class='ocrx_word' id='word_1_15' title='bbox 853 2399 1164 2474; x_wconf 85' lang='lat' dir='ltr'>importante</span> <span class='ocrx_word' id='word_1_16' title='bbox 1179 2436 1198 2469; x_wconf 62' lang='lat'><em>2</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 278 2496 1060 2564; baseline -0.006 -5"><span class='ocrx_word' id='word_1_17' title='bbox 278 2506 351 2559; x_wconf 86' lang='lat' dir='ltr'>Le</span> <span class='ocrx_word' id='word_1_18' title='bbox 378 2500 510 2559; x_wconf 60' lang='lat' dir='ltr'>dkfit</span> <span class='ocrx_word' id='word_1_19' title='bbox 534 2500 694 2561; x_wconf 67' lang='grc' dir='ltr'>(Γέῑῐε</span> <span class='ocrx_word' id='word_1_20' title='bbox 720 2500 856 2558; x_wconf 80' lang='lat' dir='ltr'>aime&#39;:</span> <span class='ocrx_word' id='word_1_21' title='bbox 891 2496 1060 2564; x_wconf 41' lang='lat' dir='ltr'>d’lrisq</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

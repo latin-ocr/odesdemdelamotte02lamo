@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./odesdemdelamotte02lamo_0206.png"; bbox 0 0 1752 3067; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 326 109 1485 190">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 326 109 1485 190">
+     <span class='ocr_line' id='line_1_1' title="bbox 326 109 1485 190; baseline 0.005 -23"><span class='ocrx_word' id='word_1_1' title='bbox 326 118 440 174; x_wconf 73' lang='lat'>‘200</span> <span class='ocrx_word' id='word_1_2' title='bbox 560 110 803 190; x_wconf 59' lang='lat' dir='ltr'>EssAro</span> <span class='ocrx_word' id='word_1_3' title='bbox 842 126 918 168; x_wconf 78' lang='grc' dir='ltr'>ιτ</span> <span class='ocrx_word' id='word_1_4' title='bbox 953 109 1485 184; x_wconf 48' lang='grc' dir='ltr'>ΤΗειυειςαιὴ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 325 281 1511 694">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 325 281 1511 694">
+     <span class='ocr_line' id='line_1_2' title="bbox 383 281 1511 370; baseline 0.004 -29"><span class='ocrx_word' id='word_1_5' title='bbox 383 285 530 344; x_wconf 85' lang='lat' dir='ltr'>Mais</span> <span class='ocrx_word' id='word_1_6' title='bbox 565 281 773 353; x_wconf 68' lang='lat' dir='ltr'>demain</span> <span class='ocrx_word' id='word_1_7' title='bbox 794 328 814 356; x_wconf 78' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 854 285 892 342; x_wconf 87' lang='lat' dir='ltr'>fi</span> <span class='ocrx_word' id='word_1_9' title='bbox 914 284 1137 352; x_wconf 82' lang='lat' dir='ltr'>l’amout</span> <span class='ocrx_word' id='word_1_10' title='bbox 1162 284 1420 369; x_wconf 84' lang='lat' dir='ltr'>m’inspite</span> <span class='ocrx_word' id='word_1_11' title='bbox 1431 327 1482 370; x_wconf 37' lang='grc' dir='ltr'>ἃ,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1507 340 1511 346; x_wconf 96' lang='grc'><em>.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 325 388 1038 477; baseline 0.007 -33"><span class='ocrx_word' id='word_1_13' title='bbox 325 388 475 446; x_wconf 79' lang='lat' dir='ltr'>Chez</span> <span class='ocrx_word' id='word_1_14' title='bbox 501 393 598 446; x_wconf 83' lang='lat' dir='ltr'><strong>Iris</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 616 396 666 469; x_wconf 84' lang='lat' dir='ltr'>je</span> <span class='ocrx_word' id='word_1_16' title='bbox 696 390 1038 477; x_wconf 74' lang='lat' dir='ltr'>t’appelletai,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 327 493 1077 575; baseline 0.004 -21"><span class='ocrx_word' id='word_1_17' title='bbox 327 499 397 554; x_wconf 89' lang='lat' dir='ltr'>Et</span> <span class='ocrx_word' id='word_1_18' title='bbox 421 493 491 575; x_wconf 74' lang='lat' dir='ltr'>j’y</span> <span class='ocrx_word' id='word_1_19' title='bbox 512 497 769 555; x_wconf 83' lang='lat' dir='ltr'>chanterai</span> <span class='ocrx_word' id='word_1_20' title='bbox 794 497 876 556; x_wconf 84' lang='lat' dir='ltr'>sut</span> <span class='ocrx_word' id='word_1_21' title='bbox 901 519 953 557; x_wconf 87' lang='lat' dir='ltr'>ta</span> <span class='ocrx_word' id='word_1_22' title='bbox 982 499 1077 557; x_wconf 80' lang='lat' dir='ltr'><strong>lire</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 331 601 1111 694; baseline 0.006 -34"><span class='ocrx_word' id='word_1_23' title='bbox 331 606 427 660; x_wconf 81' lang='lat' dir='ltr'>Les</span> <span class='ocrx_word' id='word_1_24' title='bbox 449 601 649 685; x_wconf 84' lang='lat' dir='ltr'>plaifirs</span> <span class='ocrx_word' id='word_1_25' title='bbox 668 625 766 690; x_wconf 81' lang='lat' dir='ltr'>que</span> <span class='ocrx_word' id='word_1_26' title='bbox 799 614 847 694; x_wconf 70' lang='lat' dir='ltr'>je</span> <span class='ocrx_word' id='word_1_27' title='bbox 863 606 1111 691; x_wconf 21' lang='lat' dir='ltr'>gofitet-aiq</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 369 1177 1385 1902">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 369 1177 1385 1902">
+     <span class='ocr_line' id='line_1_6' title="bbox 369 1177 1385 1902; baseline 0 1165"><span class='ocrx_word' id='word_1_28' title='bbox 369 1177 1385 1902; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
